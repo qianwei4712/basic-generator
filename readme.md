@@ -25,4 +25,4 @@
 > **resources/freemakerTpl**，配置位置在**core/FreeMarkerTemplateUtils/static**
 
 #### 模板生成方法
-> FreemarkerInit具体生成代码中，作者忽略了BaseEntity内的字段，具体详见 **FreemarkerInitgetDataMap**
+> FreemarkerInit具体生成代码中，作者忽略了BaseEntity内的字段，具体详见 **FreemarkerInit.getDataMap**
